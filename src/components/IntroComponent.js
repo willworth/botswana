@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class IntroComponent extends Component {
     render() {
         return (
-            <div>
+            <div >
             <div class="jumbotron">
         <div class="container">
           <h1 class="display-3">This is Song Saver.</h1>
